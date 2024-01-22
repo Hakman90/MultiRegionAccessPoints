@@ -18,8 +18,8 @@ Create a replication rule:  <br/>
 <img src="https://i.imgur.com/U0r8mxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add Usage Permission: <br/>
-<img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Two Way Replication Complete: <br/>
+<img src="https://i.imgur.com/cGovbpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a plain text file:  <br/>
