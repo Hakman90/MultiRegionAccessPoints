@@ -20,14 +20,6 @@ Create a replication rule:  <br/>
 <br />
 Two Way Replication Complete: <br/>
 <img src="https://i.imgur.com/cGovbpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Create a plain text file:  <br/>
-<img src="https://i.imgur.com/e82qFoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Encrypt File Using KMS key:  <br/>
-<img src="https://i.imgur.com/WbQjfEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
