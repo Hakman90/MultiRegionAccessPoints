@@ -14,8 +14,8 @@ Create the Multi Region Access Point: <br/>
 <img src="https://i.imgur.com/iz7lNjU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add Admin Permissions:  <br/>
-<img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a replication rule:  <br/>
+<img src="https://i.imgur.com/U0r8mxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add Usage Permission: <br/>
